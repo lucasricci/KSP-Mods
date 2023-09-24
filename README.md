@@ -16,5 +16,9 @@ Couple of the mods I use in my KSP to make it look fantastic, see more down belo
 - EVE ([LGhassen](https://github.com/LGhassen/))
 - Volumetric Clouds ([blackrack](https://www.patreon.com/blackrack))
 - Kopernicus ([Raymond Beehler](https://github.com/r-t-b/))
+- Parallax ([Gameslinx](https://github.com/Gameslinx))
+- Planetshine ([PapaJoesSoup](https://github.com/PapaJoesSoup))
 - Waterfall ([Post Kerbin Mining Corporation](https://github.com/post-kerbin-mining-corporation/))
 - Waterfall Stock Effects ([KnightofStJohn](https://github.com/KnightofStJohn/))
+
+### Images
